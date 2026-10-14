@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **noahkln/noahkln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Noah 👋
+
+Web developer focused on modern web applications. Meet me at the coffee machine.
+
+> Why do programmers prefer dark mode?  
+> Because light attracts bugs.
